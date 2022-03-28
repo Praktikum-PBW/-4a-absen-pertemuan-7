@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4A Pertemuan 7
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+- Alfian Vito Anggoro_2010631170044
 Annabella Dian Dameria Sinambela - 2010631170054
 - Alifa Maha Rizka | 2010631170047
 Yohanes Anjar Dewantara - 2010631170134
